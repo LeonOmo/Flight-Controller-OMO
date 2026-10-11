@@ -1,5 +1,5 @@
 Designator,Component / Value,Footprint / Package,LCSC Part Number,Description / Notes
-U2,STM32F411CEU6,"QFN-48 (7x7mm)",C60420,"Main MCU
+U2,STM32F411CEU6,"QFN-48 (7x7mm)",C60420,"Main MCU"
 U4,BMI270,"14-LGA (3x2.5mm)",C2836813,"Gyro + Accel"
 U3,ME6211C33M5G-N,SOT-23-5,C82942,"3.3V Voltage Regulator"
 J1,USB4105-GF-A-120,"USB-C 16-Pin SMT",C5184243,"USB-C"
