@@ -1,6 +1,6 @@
 # Flight-Controller-OMO
 
-A minimalistic STM32f411 based flight controller designed for 4 motors.
+A minimalistic STM32f411 based flight controller with 4 motor attachments.
 
 ## Features
 
