@@ -16,7 +16,7 @@ A minimalistic STM32f411 based flight controller designed for 4 motors.
 ## PCB
 
 <img width="501" height="345" alt="Screenshot 2026-10-11 154109" src="https://github.com/user-attachments/assets/b7edb0d2-38c5-408b-858e-a86482985490" />
-<img width="527" height="324" alt="Screenshot 2026-10-11 154100" src="https://github.com/user-attachments/assets/87056c89-3229-4444-b463-83f16e468830" />
+<img width="527" height="424" alt="Screenshot 2026-10-11 154100" src="https://github.com/user-attachments/assets/87056c89-3229-4444-b463-83f16e468830" />
 
 
 
