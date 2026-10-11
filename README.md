@@ -1,12 +1,13 @@
 # Flight-Controller-OMO
 
-A minimalistic STM32F411 based flight controller with 4 motor attachments.
+A minimalistic STM32F411 based flight controller with 4 possible motor attachments.
 
 ## Features
 
 - Microcontroller: STM32F411CEUx
 - Sensor: BMI270 (Gyro & Accelerometer)
 - Power System: 12 Pin USB_C and a 3.3v Regulator.
+- Silkscreen: VERY COOLL YES  VERY COOOL Things on the PCB like the lamp and mewo. ;D
 
 ## Tools
 
