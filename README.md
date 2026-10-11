@@ -31,7 +31,7 @@ My first self designed flightcontroller. Made just for the fun of it aswell as i
 
 ## Bonus
 
-I used the IMP 6050 before the BMI270 and it was why "harder" (i also just copied the Datasheet) since its way older andit was a big hassle to update the PCB.
+I used the MPU 6050 before the BMI270 and it was why "harder" (i also just copied the Datasheet) since its way older andit was a big hassle to update the PCB.
 
 <img width="431" height="397" alt="Screenshot 2026-10-08 160652" src="https://github.com/user-attachments/assets/0b2d92ee-48ac-4365-8c29-1a148eaae829" />
 
