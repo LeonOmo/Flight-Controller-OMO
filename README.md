@@ -5,7 +5,7 @@ A minimalistic STM32F411 based flight controller with 4 motor attachments.
 ## Features
 
 - Microcontroller: STM32F411CEUx
-- Sensor: MPU-6050 (Gyro & Accelerometer)
+- Sensor: BMI270 (Gyro & Accelerometer)
 - Power System: 12 Pin USB_C and a 3.3v Regulator.
 
 ## Tools
