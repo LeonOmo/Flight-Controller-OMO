@@ -30,6 +30,8 @@ A minimalistic STM32F411 based flight controller with 4 possible motor attachmen
 
 My first self designed flightcontroller. Made just for the fun of it aswell as its nice to have for tests and other aero projects.
 
+I have no idea if it will work i do hope that it works but im very unsure.
+
 ## Bonus
 
 I used the MPU 6050 before the BMI270 and it was why "harder" (i also just copied the Datasheet) since its way older andit was a big hassle to update the PCB.
