@@ -9,10 +9,10 @@ Flight Controller OMO: is a custom printed circuit board designed specifically t
 ## Purpose & What it does
 
 The primary purpose of this board is to process real-time orientation data and translate pilot control inputs into precise motor commands. 
-- Attitude Stabilization: Reads high speed gyro and accelerometer data via the BMI270 sensor to keep the aircraft stable.
+- Attitude: Reads high speed gyro and accelerometer data via the BMI270 sensor to keep the aircraft stable.
 - Motor Control: Provides 4 dedicated motor output attachments to drive electronic speed controllers (ESCs) or micro motors.
-- Open Firmware Compatibility: Designed to run standard flight controller firmware like Betaflight.
-- Telemetry: Includes a 12 pin USB-C interface for seamless connection to a PC for configuration and flashing.
+- Firmware: Designed to run standard flight controller firmware like Betaflight.
+- Flashing: Includes a 12 pin USB-C interface for seamless connection to a PC for configuration and flashing.
 
 ## Why does it exist?
 
