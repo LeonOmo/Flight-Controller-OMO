@@ -20,7 +20,7 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 
 - The Learning Curve: Moving away from older, obsolete sensors like the MPU6050 to the modern BMI270 was a major step in modernizing the design.
 - Aerospace Passion: As a personal stepping stone for aerospace and rocketry drone payloads having total control over a custom flight controller design opens up endless possibilities for tailored form factors.
-- Just for Fun: Pure engineering curiosity testing whether a self routed PCB built in KiCAD can successfully boot, communicate, and stabilize a flight platform. (Note: As of now, it's a first prototype fingers crossed that everything works as intended!)
+- Just for Fun: Pure engineering curiosity testing whether a self routed PCB built in KiCAD can successfully boot, communicate, and stabilize a flight platform. (As of now, it's a first prototype fingers crossed that everything works as intended!)
 
 ## Bill of Materials (BOM)
 
