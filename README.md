@@ -24,13 +24,20 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 
 ## Bill of Materials
 
-| Item | Link | Description |
-| :--- | :--- | :--- |
-| STM32F411CEUx | [Manufacturer](https://www.st.com/) | Microcontroller core |
-| BMI270 | [Bosch Sensortec](https://www.bosch-sensortec.com/) | Gyro & Accelerometer Sensor |
-| USB-C Receptacle | [AliExpress / Supplier](https://de.aliexpress.com/) | Power & Data Connection |
-| Custom PCB | [JLCPCB](https://jlcpcb.com/) | Custom designed circuit board |
-
+| Designator | Component / Value | Footprint / Package | LCSC Part Number | Description / Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| U2 | STM32F411CEU6 | QFN-48 (7x7mm) | C60420 | Main MCU |
+| U4 | BMI270 | 14-LGA (3x2.5mm) | C2836813 | Gyro + Accel |
+| U3 | ME6211C33M5G-N | SOT-23-5 | C82942 | 3.3V Voltage Regulator |
+| J1 | USB4105-GF-A-120 | USB-C 16-Pin SMT | C5184243 | USB-C Receptacle |
+| Y1 | 16MHz Crystal | SMD 3225-4P | C13738 | Crystal Oscillator |
+| C5, C6 | 10µF | 0603 (1608 Metric) | C19702 | Ceramic Capacitor |
+| C7 | 2.2µF | 0603 (1608 Metric) | C23630 | Ceramic Capacitor |
+| D1, D2 | LED | 0603 (1608 Metric) | C2290 | Status / Power LEDs |
+| R3 | 1MΩ | 0603 (1608 Metric) | C22935 | Resistor |
+| R4, R5 | 5.1kΩ | 0603 (1608 Metric) | C23186 | USB-C Resistors |
+| R6, R7 | 10kΩ | 0603 (1608 Metric) | C25804 | Config Resistors |
+| R8, R9 | 1kΩ | 0603 (1608 Metric) | C21190 | LED Current Limiting Resistors |
 
 ## Tools & Technologies
 
@@ -58,4 +65,4 @@ I liked this way more than id like to admit making this was really fun for me an
 
 Before settling on the BMI270, early iterations used the older MPU6050. Transitioning away from it was a major hurdle due to its age and lack of modern integration support, making the shift to the BMI270 a much cleaner and more reliable choice for modern layouts.
 
-<img width="431" height="397" alt="Old MPU6050 Iteration" src="https://github.com/user-attachments/assets/0b2d92ee-48ac-4365-8c29-1a148eaae829" />**
+<img width="431" height="397" alt="Old MPU6050 Iteration" src="https://github.com/user-attachments/assets/0b2d92ee-48ac-4365-8c29-1a148eaae829" />
