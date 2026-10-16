@@ -1,4 +1,4 @@
-**# Flight-Controller-OMO
+# Flight-Controller-OMO
 
 A custom designed, minimalistic STM32F411-based flight controller built from scratch for custom drone and aerospace experimentation.
 
