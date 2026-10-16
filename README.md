@@ -24,12 +24,12 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 
 ## Bill of Materials (BOM)
 
-| Item | Quantity | Total Price | Link | Description |
-| :--- | :---: | :---: | :--- | :--- |
-| STM32F411CEUx | 1 | — | [Manufacturer](https://www.st.com/) | Microcontroller core |
-| BMI270 | 1 | — | [Bosch Sensortec](https://www.bosch-sensortec.com/) | Gyro & Accelerometer Sensor |
-| USB-C Receptacle | 1 | — | [AliExpress / Supplier](https://de.aliexpress.com/) | Power & Data Connection |
-| Custom PCB | 1 | 15,00 € | [JLCPCB](https://jlcpcb.com/) | Custom designed circuit board |
+| Item | Link | Description |
+| :--- | :--- | :--- |
+| STM32F411CEUx | [Manufacturer](https://www.st.com/) | Microcontroller core |
+| BMI270 | [Bosch Sensortec](https://www.bosch-sensortec.com/) | Gyro & Accelerometer Sensor |
+| USB-C Receptacle | [AliExpress / Supplier](https://de.aliexpress.com/) | Power & Data Connection |
+| Custom PCB | [JLCPCB](https://jlcpcb.com/) | Custom designed circuit board |
 
 
 ## Tools & Technologies
