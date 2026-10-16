@@ -29,7 +29,6 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 | STM32F411CEUx | 1 | — | [Manufacturer](https://www.st.com/) | Microcontroller core |
 | BMI270 | 1 | — | [Bosch Sensortec](https://www.bosch-sensortec.com/) | Gyro & Accelerometer Sensor |
 | USB-C Receptacle | 1 | — | [AliExpress / Supplier](https://de.aliexpress.com/) | Power & Data Connection |
-| 3.3V Voltage Regulator | 1 | — | — | Steps down voltage for logic components |
 | Custom PCB | 1 | 15,00 € | [JLCPCB](https://jlcpcb.com/) | Custom designed circuit board |
 
 
