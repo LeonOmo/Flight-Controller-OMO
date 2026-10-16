@@ -1,4 +1,4 @@
-# Flight-Controller-OMO
+**# Flight-Controller-OMO
 
 A custom designed, minimalistic STM32F411-based flight controller built from scratch for custom drone and aerospace experimentation.
 
@@ -11,7 +11,7 @@ Flight Controller OMO: is a custom printed circuit board (PCB) designed specific
 The primary purpose of this board is to process real-time orientation data and translate pilot control inputs into precise motor commands. 
 - Attitude Stabilization: Reads high speed gyro and accelerometer data via the BMI270 sensor to keep the aircraft stable.
 - Motor Control: Provides 4 dedicated motor output attachments to drive electronic speed controllers (ESCs) or micro motors.
-- Open Firmware Compatibility: Designed to run standard flight controller firmware like Betaflight, making tuning, PID configuration, and sensor calibration straightforward.
+- Open Firmware Compatibility: Designed to run standard flight controller firmware like Betaflight.
 - Telemetry: Includes a 12 pin USB-C interface for seamless connection to a PC for configuration and flashing.
 
 ## Why does it exist?
@@ -54,4 +54,4 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 
 Before settling on the BMI270, early iterations used the older MPU6050. Transitioning away from it was a major hurdle due to its age and lack of modern integration support, making the shift to the BMI270 a much cleaner and more reliable choice for modern layouts.
 
-<img width="431" height="397" alt="Old MPU6050 Iteration" src="https://github.com/user-attachments/assets/0b2d92ee-48ac-4365-8c29-1a148eaae829" />
+<img width="431" height="397" alt="Old MPU6050 Iteration" src="https://github.com/user-attachments/assets/0b2d92ee-48ac-4365-8c29-1a148eaae829" />**
