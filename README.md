@@ -50,6 +50,10 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 <img width="590" height="470" alt="PCB Top View" src="https://github.com/user-attachments/assets/beaa8b7b-2234-4282-ad69-a504e8533080" />
 <img width="590" height="470" alt="PCB Bottom View" src="https://github.com/user-attachments/assets/41b5ce0c-abc6-49dc-96f1-d5257a507132" />
 
+## Extras
+
+I liked this way more than id like to admit making this was really fun for me and it was just so freeing.
+
 ## Bonus
 
 Before settling on the BMI270, early iterations used the older MPU6050. Transitioning away from it was a major hurdle due to its age and lack of modern integration support, making the shift to the BMI270 a much cleaner and more reliable choice for modern layouts.
