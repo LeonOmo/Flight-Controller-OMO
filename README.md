@@ -4,7 +4,7 @@ A custom designed, minimalistic STM32F411-based flight controller built from scr
 
 ## What is this project?
 
-Flight Controller OMO: is a custom printed circuit board (PCB) designed specifically to act as the central processing and stabilization unit for small quadcopters and stabilising platforms. It breaks away from bulky flight controllers by packing only the essential, minimal form factor powered by an STM32 microcontroller and a modern BMI270.
+Flight Controller OMO: is a custom printed circuit board designed specifically to act as the central processing and stabilization unit for small quadcopters and stabilising platforms. It breaks away from bulky flight controllers by packing only the essential, minimal form factor powered by an STM32 microcontroller and a modern BMI270.
 
 ## Purpose & What it does
 
