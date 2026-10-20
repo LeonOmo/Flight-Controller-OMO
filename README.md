@@ -24,7 +24,7 @@ Building an off the shelf drone is fun, but designing the core avionics from the
 
 ## Bill of Materials
 
-| Designator | Component / Value | Footprint / Package | LCSC Part Number | Description / Notes |
+| Designator | Component | Footprint | LCSC Part Number | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | U2 | STM32F411CEU6 | QFN-48 (7x7mm) | C60420 | Main MCU |
 | U4 | BMI270 | 14-LGA (3x2.5mm) | C2836813 | Gyro + Accel |
